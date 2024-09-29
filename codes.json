@@ -1,1211 +1,1441 @@
 [{
         "name": "Afghanistan",
         "dial_code": "+93",
-        "code": "AF"
+        "code": "AF",
+        "local_format": "0xx-xxxxxxx"
     },
     {
         "name": "Aland Islands",
         "dial_code": "+358",
-        "code": "AX"
+        "code": "AX",
+        "local_format": "0xx xxxxx"
     },
     {
         "name": "Albania",
         "dial_code": "+355",
-        "code": "AL"
+        "code": "AL",
+        "local_format": "0xx xxxxxxx"
     },
     {
         "name": "Algeria",
         "dial_code": "+213",
-        "code": "DZ"
+        "code": "DZ",
+        "local_format": "0xx xx xx xx"
     },
     {
-        "name": "AmericanSamoa",
+        "name": "American Samoa",
         "dial_code": "+1 684",
-        "code": "AS"
+        "code": "AS",
+        "local_format": "xxx-xxxx"
     },
     {
         "name": "Andorra",
         "dial_code": "+376",
-        "code": "AD"
+        "code": "AD",
+        "local_format": "x xxx xxx"
     },
     {
         "name": "Angola",
         "dial_code": "+244",
-        "code": "AO"
+        "code": "AO",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Anguilla",
         "dial_code": "+1 264",
-        "code": "AI"
+        "code": "AI",
+        "local_format": "xxx-xxxx"
     },
     {
         "name": "Antarctica",
         "dial_code": "+672",
-        "code": "AQ"
+        "code": "AQ",
+        "local_format": "xx xxx xxxx"
     },
     {
         "name": "Antigua and Barbuda",
         "dial_code": "+1268",
-        "code": "AG"
+        "code": "AG",
+        "local_format": "xxx-xxxx"
     },
     {
         "name": "Argentina",
         "dial_code": "+54",
-        "code": "AR"
+        "code": "AR",
+        "local_format": "0xx xxxxxxxx"
     },
     {
         "name": "Armenia",
         "dial_code": "+374",
-        "code": "AM"
+        "code": "AM",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Aruba",
         "dial_code": "+297",
-        "code": "AW"
+        "code": "AW",
+        "local_format": "xxx-xxxx"
     },
     {
         "name": "Australia",
         "dial_code": "+61",
-        "code": "AU"
+        "code": "AU",
+        "local_format": "0x xxx xxx xxx"
     },
     {
         "name": "Austria",
         "dial_code": "+43",
-        "code": "AT"
+        "code": "AT",
+        "local_format": "0xx xxx xx xx"
     },
     {
         "name": "Azerbaijan",
         "dial_code": "+994",
-        "code": "AZ"
+        "code": "AZ",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Bahamas",
         "dial_code": "+1 242",
-        "code": "BS"
+        "code": "BS",
+        "local_format": "xxx-xxxx"
     },
     {
         "name": "Bahrain",
         "dial_code": "+973",
-        "code": "BH"
+        "code": "BH",
+        "local_format": "xxx-xxxx"
     },
     {
         "name": "Bangladesh",
         "dial_code": "+880",
-        "code": "BD"
+        "code": "BD",
+        "local_format": "0x xxxx xxxx"
     },
     {
         "name": "Barbados",
         "dial_code": "+1 246",
-        "code": "BB"
+        "code": "BB",
+        "local_format": "xxx-xxxx"
     },
     {
         "name": "Belarus",
         "dial_code": "+375",
-        "code": "BY"
+        "code": "BY",
+        "local_format": "0xx xxxxxxxx"
     },
     {
         "name": "Belgium",
         "dial_code": "+32",
-        "code": "BE"
+        "code": "BE",
+        "local_format": "0xx xx xx xx"
     },
     {
         "name": "Belize",
         "dial_code": "+501",
-        "code": "BZ"
+        "code": "BZ",
+        "local_format": "xxx-xxxx"
     },
     {
         "name": "Benin",
         "dial_code": "+229",
-        "code": "BJ"
+        "code": "BJ",
+        "local_format": "xx xx xx xx"
     },
     {
         "name": "Bermuda",
         "dial_code": "+1 441",
-        "code": "BM"
+        "code": "BM",
+        "local_format": "xxx-xxxx"
     },
     {
         "name": "Bhutan",
         "dial_code": "+975",
-        "code": "BT"
+        "code": "BT",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Bolivia, Plurinational State of",
         "dial_code": "+591",
-        "code": "BO"
+        "code": "BO",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Bosnia and Herzegovina",
         "dial_code": "+387",
-        "code": "BA"
+        "code": "BA",
+        "local_format": "0xx xxx xxx"
     },
     {
         "name": "Botswana",
         "dial_code": "+267",
-        "code": "BW"
+        "code": "BW",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Brazil",
         "dial_code": "+55",
-        "code": "BR"
+        "code": "BR",
+        "local_format": "(0xx) xxxxx-xxxx"
     },
     {
         "name": "British Indian Ocean Territory",
         "dial_code": "+246",
-        "code": "IO"
+        "code": "IO",
+        "local_format": "xx xxxx"
     },
     {
         "name": "Brunei Darussalam",
         "dial_code": "+673",
-        "code": "BN"
+        "code": "BN",
+        "local_format": "x xxxx"
     },
     {
         "name": "Bulgaria",
         "dial_code": "+359",
-        "code": "BG"
+        "code": "BG",
+        "local_format": "0xx xxx xx xx"
     },
     {
         "name": "Burkina Faso",
         "dial_code": "+226",
-        "code": "BF"
+        "code": "BF",
+        "local_format": "0xx xx xx xx"
     },
     {
         "name": "Burundi",
         "dial_code": "+257",
-        "code": "BI"
+        "code": "BI",
+        "local_format": "0xx xxxxx"
     },
     {
         "name": "Cambodia",
         "dial_code": "+855",
-        "code": "KH"
+        "code": "KH",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Cameroon",
         "dial_code": "+237",
-        "code": "CM"
+        "code": "CM",
+        "local_format": "0xx xx xx xx"
     },
     {
         "name": "Canada",
         "dial_code": "+1",
-        "code": "CA"
+        "code": "CA",
+        "local_format": "(xxx) xxx-xxxx"
     },
     {
         "name": "Cape Verde",
         "dial_code": "+238",
-        "code": "CV"
+        "code": "CV",
+        "local_format": "9 xx xx xx"
     },
     {
         "name": "Cayman Islands",
-        "dial_code": "+ 345",
-        "code": "KY"
+        "dial_code": "+345",
+        "code": "KY",
+        "local_format": "xxx-xxxx"
     },
     {
         "name": "Central African Republic",
         "dial_code": "+236",
-        "code": "CF"
+        "code": "CF",
+        "local_format": "0xx xx xx xx"
     },
     {
         "name": "Chad",
         "dial_code": "+235",
-        "code": "TD"
+        "code": "TD",
+        "local_format": "0xx xx xx xx"
     },
     {
         "name": "Chile",
         "dial_code": "+56",
-        "code": "CL"
+        "code": "CL",
+        "local_format": "0xx xxxxxxx"
     },
     {
         "name": "China",
         "dial_code": "+86",
-        "code": "CN"
+        "code": "CN",
+        "local_format": "0xx xxxx xxxx"
     },
     {
         "name": "Christmas Island",
         "dial_code": "+61",
-        "code": "CX"
+        "code": "CX",
+        "local_format": "0x xxx xxx xxx"
     },
     {
         "name": "Cocos (Keeling) Islands",
         "dial_code": "+61",
-        "code": "CC"
+        "code": "CC",
+        "local_format": "0x xxx xxx xxx"
     },
     {
         "name": "Colombia",
         "dial_code": "+57",
-        "code": "CO"
+        "code": "CO",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Comoros",
         "dial_code": "+269",
-        "code": "KM"
+        "code": "KM",
+        "local_format": "xx xx xx xx"
     },
     {
         "name": "Congo",
         "dial_code": "+242",
-        "code": "CG"
+        "code": "CG",
+        "local_format": "0xx xx xx xx"
     },
     {
         "name": "Congo, The Democratic Republic of the Congo",
         "dial_code": "+243",
-        "code": "CD"
+        "code": "CD",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Cook Islands",
         "dial_code": "+682",
-        "code": "CK"
+        "code": "CK",
+        "local_format": "xx xxx"
     },
     {
         "name": "Costa Rica",
         "dial_code": "+506",
-        "code": "CR"
-    },
-    {
-        "name": "Cote d'Ivoire",
-        "dial_code": "+225",
-        "code": "CI"
+        "code": "CR",
+        "local_format": "0xx xxxx xxxx"
     },
     {
         "name": "Croatia",
         "dial_code": "+385",
-        "code": "HR"
+        "code": "HR",
+        "local_format": "0xx xxxxxxx"
     },
     {
         "name": "Cuba",
         "dial_code": "+53",
-        "code": "CU"
+        "code": "CU",
+        "local_format": "0xx xxxxxxxx"
     },
     {
         "name": "Cyprus",
         "dial_code": "+357",
-        "code": "CY"
+        "code": "CY",
+        "local_format": "0xx xx xx xx"
     },
     {
         "name": "Czech Republic",
         "dial_code": "+420",
-        "code": "CZ"
+        "code": "CZ",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Denmark",
         "dial_code": "+45",
-        "code": "DK"
+        "code": "DK",
+        "local_format": "xx xx xx xx"
     },
     {
         "name": "Djibouti",
         "dial_code": "+253",
-        "code": "DJ"
+        "code": "DJ",
+        "local_format": "0xx xx xx xx"
     },
     {
         "name": "Dominica",
         "dial_code": "+1 767",
-        "code": "DM"
+        "code": "DM",
+        "local_format": "xxx-xxxx"
     },
     {
         "name": "Dominican Republic",
-        "dial_code": "+1 849",
-        "code": "DO"
+        "dial_code": "+1 809, +1 829, +1 849",
+        "code": "DO",
+        "local_format": "xxx-xxxx"
     },
     {
         "name": "Ecuador",
         "dial_code": "+593",
-        "code": "EC"
+        "code": "EC",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Egypt",
         "dial_code": "+20",
-        "code": "EG"
+        "code": "EG",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "El Salvador",
         "dial_code": "+503",
-        "code": "SV"
+        "code": "SV",
+        "local_format": "x-xxxx-xxxx"
     },
     {
         "name": "Equatorial Guinea",
         "dial_code": "+240",
-        "code": "GQ"
+        "code": "GQ",
+        "local_format": "0xx xx xx xx"
     },
     {
         "name": "Eritrea",
         "dial_code": "+291",
-        "code": "ER"
+        "code": "ER",
+        "local_format": "0xx xxxxxxx"
     },
     {
         "name": "Estonia",
         "dial_code": "+372",
-        "code": "EE"
+        "code": "EE",
+        "local_format": "0xx xxxxxxx"
+    },
+    {
+        "name": "Eswatini",
+        "dial_code": "+268",
+        "code": "SZ",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Ethiopia",
         "dial_code": "+251",
-        "code": "ET"
+        "code": "ET",
+        "local_format": "0xx xxxxxxxx"
     },
     {
         "name": "Falkland Islands (Malvinas)",
         "dial_code": "+500",
-        "code": "FK"
+        "code": "FK",
+        "local_format": "x xxxx"
     },
     {
         "name": "Faroe Islands",
         "dial_code": "+298",
-        "code": "FO"
+        "code": "FO",
+        "local_format": "xx xx xx"
     },
     {
         "name": "Fiji",
         "dial_code": "+679",
-        "code": "FJ"
+        "code": "FJ",
+        "local_format": "0xx xxxxxxx"
     },
     {
         "name": "Finland",
         "dial_code": "+358",
-        "code": "FI"
+        "code": "FI",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "France",
         "dial_code": "+33",
-        "code": "FR"
+        "code": "FR",
+        "local_format": "0x xx xx xx xx"
     },
     {
         "name": "French Guiana",
         "dial_code": "+594",
-        "code": "GF"
+        "code": "GF",
+        "local_format": "0xx xx xx xx"
     },
     {
         "name": "French Polynesia",
         "dial_code": "+689",
-        "code": "PF"
+        "code": "PF",
+        "local_format": "xx xx xx xx"
     },
     {
         "name": "Gabon",
         "dial_code": "+241",
-        "code": "GA"
+        "code": "GA",
+        "local_format": "0xx xx xx xx"
     },
     {
         "name": "Gambia",
         "dial_code": "+220",
-        "code": "GM"
+        "code": "GM",
+        "local_format": "0xx xxxxx"
     },
     {
         "name": "Georgia",
         "dial_code": "+995",
-        "code": "GE"
+        "code": "GE",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Germany",
         "dial_code": "+49",
-        "code": "DE"
+        "code": "DE",
+        "local_format": "0xx xxxxxxx"
     },
     {
         "name": "Ghana",
         "dial_code": "+233",
-        "code": "GH"
+        "code": "GH",
+        "local_format": "0xx xxx xxxx"
     },
     {
         "name": "Gibraltar",
         "dial_code": "+350",
-        "code": "GI"
+        "code": "GI",
+        "local_format": "xx xx xx xx
     },
     {
         "name": "Greece",
         "dial_code": "+30",
-        "code": "GR"
+        "code": "GR",
+        "local_format": "0XX XXX XXXX"
     },
     {
         "name": "Greenland",
         "dial_code": "+299",
-        "code": "GL"
+        "code": "GL",
+        "local_format": "XX XX XX"
     },
     {
         "name": "Grenada",
         "dial_code": "+1 473",
-        "code": "GD"
+        "code": "GD",
+        "local_format": "(473) XXX-XXXX"
     },
     {
         "name": "Guadeloupe",
         "dial_code": "+590",
-        "code": "GP"
+        "code": "GP",
+        "local_format": "0X XX XX XX XX"
     },
     {
         "name": "Guam",
         "dial_code": "+1 671",
-        "code": "GU"
+        "code": "GU",
+        "local_format": "(671) XXX-XXXX"
     },
     {
         "name": "Guatemala",
         "dial_code": "+502",
-        "code": "GT"
+        "code": "GT",
+        "local_format": "0X-XXXX-XXXX"
     },
     {
         "name": "Guernsey",
         "dial_code": "+44",
-        "code": "GG"
+        "code": "GG",
+        "local_format": "0XX XXX XXXX"
     },
     {
         "name": "Guinea",
         "dial_code": "+224",
-        "code": "GN"
+        "code": "GN",
+        "local_format": "0XX XXX XXX"
     },
     {
         "name": "Guinea-Bissau",
         "dial_code": "+245",
-        "code": "GW"
+        "code": "GW",
+        "local_format": "XX XX XX XX"
     },
     {
         "name": "Guyana",
         "dial_code": "+595",
-        "code": "GY"
+        "code": "GY",
+        "local_format": "(XXX) XXX-XXXX"
     },
     {
         "name": "Haiti",
         "dial_code": "+509",
-        "code": "HT"
+        "code": "HT",
+        "local_format": "0X XX XX XX"
     },
     {
         "name": "Holy See (Vatican City State)",
         "dial_code": "+379",
-        "code": "VA"
+        "code": "VA",
+        "local_format": "0XX XXX XXXX"
     },
     {
         "name": "Honduras",
         "dial_code": "+504",
-        "code": "HN"
+        "code": "HN",
+        "local_format": "0XX-XXXX-XXXX"
     },
     {
         "name": "Hong Kong",
         "dial_code": "+852",
-        "code": "HK"
+        "code": "HK",
+        "local_format": "XXXX XXXX"
     },
     {
         "name": "Hungary",
         "dial_code": "+36",
-        "code": "HU"
+        "code": "HU",
+        "local_format": "XX XXX XXX"
     },
     {
         "name": "Iceland",
         "dial_code": "+354",
-        "code": "IS"
+        "code": "IS",
+        "local_format": "XXX-XXXX"
     },
     {
         "name": "India",
         "dial_code": "+91",
-        "code": "IN"
+        "code": "IN",
+        "local_format": "0XXXX XXXXX"
     },
     {
         "name": "Indonesia",
         "dial_code": "+62",
-        "code": "ID"
+        "code": "ID",
+        "local_format": "0XX-XXXX-XXXX"
     },
     {
         "name": "Iran, Islamic Republic of Persian Gulf",
         "dial_code": "+98",
-        "code": "IR"
+        "code": "IR",
+        "local_format": "0XX-XXXX-XXXX"
     },
     {
         "name": "Iraq",
         "dial_code": "+964",
-        "code": "IQ"
+        "code": "IQ",
+        "local_format": "0XX XXX XXXX"
     },
     {
         "name": "Ireland",
         "dial_code": "+353",
-        "code": "IE"
+        "code": "IE",
+        "local_format": "0X-XXXX-XXXX"
     },
     {
         "name": "Isle of Man",
         "dial_code": "+44",
-        "code": "IM"
+        "code": "IM",
+        "local_format": "0XX XXX XXXX"
     },
     {
         "name": "Israel",
         "dial_code": "+972",
-        "code": "IL"
+        "code": "IL",
+        "local_format": "0X-XXXX-XXXX"
     },
     {
         "name": "Italy",
         "dial_code": "+39",
-        "code": "IT"
+        "code": "IT",
+        "local_format": "0XX XXX XXXX"
     },
     {
         "name": "Jamaica",
         "dial_code": "+1 876",
-        "code": "JM"
+        "code": "JM",
+        "local_format": "(876) XXX-XXXX"
     },
     {
         "name": "Japan",
         "dial_code": "+81",
-        "code": "JP"
+        "code": "JP",
+        "local_format": "0X-XXXX-XXXX"
     },
     {
         "name": "Jersey",
         "dial_code": "+44",
-        "code": "JE"
+        "code": "JE",
+        "local_format": "0XX XXX XXXX"
     },
     {
         "name": "Jordan",
         "dial_code": "+962",
-        "code": "JO"
+        "code": "JO",
+        "local_format": "0X-XXXX-XXXX"
     },
     {
         "name": "Kazakhstan",
         "dial_code": "+7 7",
-        "code": "KZ"
+        "code": "KZ",
+        "local_format": "0XX XXX XXXX"
     },
     {
         "name": "Kenya",
         "dial_code": "+254",
-        "code": "KE"
+        "code": "KE",
+        "local_format": "07X XXX XXX"
     },
     {
         "name": "Kiribati",
         "dial_code": "+686",
-        "code": "KI"
+        "code": "KI",
+        "local_format": "XX XXX"
     },
     {
         "name": "Korea, Democratic People's Republic of Korea",
         "dial_code": "+850",
-        "code": "KP"
+        "code": "KP",
+        "local_format": "0XX-XXXX-XXXX"
     },
     {
         "name": "Korea, Republic of South Korea",
         "dial_code": "+82",
-        "code": "KR"
+        "code": "KR",
+        "local_format": "0X-XXXX-XXXX"
     },
     {
         "name": "Kosovo",
         "dial_code": "+383",
-        "code": "XK"
+        "code": "XK",
+        "local_format": "0XX XXX XXX"
     },
     {
         "name": "Kuwait",
         "dial_code": "+965",
-        "code": "KW"
+        "code": "KW",
+        "local_format": "0XX XXX XXXX"
     },
     {
         "name": "Kyrgyzstan",
         "dial_code": "+996",
-        "code": "KG"
+        "code": "KG",
+        "local_format": "0XX XXX XXXX"
     },
     {
         "name": "Laos",
         "dial_code": "+856",
-        "code": "LA"
+        "code": "LA",
+        "local_format": "0X-XXXX-XXXX"
     },
     {
         "name": "Latvia",
         "dial_code": "+371",
-        "code": "LV"
+        "code": "LV",
+        "local_format": "0XX XXX XXXX"
     },
     {
         "name": "Lebanon",
         "dial_code": "+961",
-        "code": "LB"
+        "code": "LB",
+        "local_format": "0X-XXXX-XXXX"
     },
     {
         "name": "Lesotho",
         "dial_code": "+266",
-        "code": "LS"
+        "code": "LS",
+        "local_format": "0X XXX XXX"
     },
     {
         "name": "Liberia",
         "dial_code": "+231",
-        "code": "LR"
+        "code": "LR",
+        "phone_format": "(0) XX XXX XXX"
     },
     {
         "name": "Libyan Arab Jamahiriya",
         "dial_code": "+218",
-        "code": "LY"
+        "code": "LY",
+        "phone_format": "0XX XXX XXXX"
     },
     {
         "name": "Liechtenstein",
         "dial_code": "+423",
-        "code": "LI"
+        "code": "LI",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Lithuania",
         "dial_code": "+370",
-        "code": "LT"
+        "code": "LT",
+        "phone_format": "+370 6XX XXX XX"
     },
     {
         "name": "Luxembourg",
         "dial_code": "+352",
-        "code": "LU"
+        "code": "LU",
+        "phone_format": "6XX XXX XXX"
     },
     {
         "name": "Macao",
         "dial_code": "+853",
-        "code": "MO"
+        "code": "MO",
+        "phone_format": "6XXXXXXX"
     },
     {
         "name": "Macedonia",
         "dial_code": "+389",
-        "code": "MK"
+        "code": "MK",
+        "phone_format": "07X XXX XXX"
     },
     {
         "name": "Madagascar",
         "dial_code": "+261",
-        "code": "MG"
+        "code": "MG",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Malawi",
         "dial_code": "+265",
-        "code": "MW"
+        "code": "MW",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Malaysia",
         "dial_code": "+60",
-        "code": "MY"
+        "code": "MY",
+        "phone_format": "01X-XXXXXXX"
     },
     {
         "name": "Maldives",
         "dial_code": "+960",
-        "code": "MV"
+        "code": "MV",
+        "phone_format": "7XX-XXXX"
     },
     {
         "name": "Mali",
         "dial_code": "+223",
-        "code": "ML"
+        "code": "ML",
+        "phone_format": "XX XX XX XX"
     },
     {
         "name": "Malta",
         "dial_code": "+356",
-        "code": "MT"
+        "code": "MT",
+        "phone_format": "79X XXX XXX"
     },
     {
         "name": "Marshall Islands",
         "dial_code": "+692",
-        "code": "MH"
+        "code": "MH",
+        "phone_format": "6XX-XXXX"
     },
     {
         "name": "Martinique",
         "dial_code": "+596",
-        "code": "MQ"
+        "code": "MQ",
+        "phone_format": "0XX XX XX XX"
     },
     {
         "name": "Mauritania",
         "dial_code": "+222",
-        "code": "MR"
+        "code": "MR",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Mauritius",
         "dial_code": "+230",
-        "code": "MU"
+        "code": "MU",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Mayotte",
         "dial_code": "+262",
-        "code": "YT"
+        "code": "YT",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Mexico",
         "dial_code": "+52",
-        "code": "MX"
+        "code": "MX",
+        "phone_format": "(0XX) XXX-XXXX"
     },
     {
         "name": "Micronesia, Federated States of Micronesia",
         "dial_code": "+691",
-        "code": "FM"
+        "code": "FM",
+        "phone_format": "7XX-XXXX"
     },
     {
         "name": "Moldova",
         "dial_code": "+373",
-        "code": "MD"
+        "code": "MD",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Monaco",
         "dial_code": "+377",
-        "code": "MC"
+        "code": "MC",
+        "phone_format": "6 XX XX XX"
     },
     {
         "name": "Mongolia",
         "dial_code": "+976",
-        "code": "MN"
+        "code": "MN",
+        "phone_format": "0XX-XXXXXXX"
     },
     {
         "name": "Montenegro",
         "dial_code": "+382",
-        "code": "ME"
+        "code": "ME",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Montserrat",
         "dial_code": "+1664",
-        "code": "MS"
+        "code": "MS",
+        "phone_format": "1-664-XXXXXXX"
     },
     {
         "name": "Morocco",
         "dial_code": "+212",
-        "code": "MA"
+        "code": "MA",
+        "phone_format": "0X XX XX XX XX"
     },
     {
         "name": "Mozambique",
         "dial_code": "+258",
-        "code": "MZ"
+        "code": "MZ",
+        "phone_format": "8XX XXX XXX"
     },
     {
         "name": "Myanmar",
         "dial_code": "+95",
-        "code": "MM"
+        "code": "MM",
+        "phone_format": "09-XXXX-XXXX"
     },
     {
         "name": "Namibia",
         "dial_code": "+264",
-        "code": "NA"
+        "code": "NA",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Nauru",
         "dial_code": "+674",
-        "code": "NR"
+        "code": "NR",
+        "phone_format": "4XX XXXX"
     },
     {
         "name": "Nepal",
         "dial_code": "+977",
-        "code": "NP"
+        "code": "NP",
+        "phone_format": "0XX-XXXXXXX"
     },
     {
         "name": "Netherlands",
         "dial_code": "+31",
-        "code": "NL"
+        "code": "NL",
+        "phone_format": "06-XXXX-XXXX"
     },
     {
         "name": "Netherlands Antilles",
         "dial_code": "+599",
-        "code": "AN"
+        "code": "AN",
+        "phone_format": "9XX-XXX-XXXX"
     },
     {
         "name": "New Caledonia",
         "dial_code": "+687",
-        "code": "NC"
+        "code": "NC",
+        "phone_format": "0X XX XX XX"
     },
     {
         "name": "New Zealand",
         "dial_code": "+64",
-        "code": "NZ"
+        "code": "NZ",
+        "phone_format": "02X XXX XXXX"
     },
     {
         "name": "Nicaragua",
         "dial_code": "+505",
-        "code": "NI"
+        "code": "NI",
+        "phone_format": "8XX-XXXXXX"
     },
     {
         "name": "Niger",
         "dial_code": "+227",
-        "code": "NE"
+        "code": "NE",
+        "phone_format": "XX XX XX XX"
     },
     {
         "name": "Nigeria",
         "dial_code": "+234",
-        "code": "NG"
+        "code": "NG",
+        "phone_format": "0XX XXX XXXX"
     },
     {
         "name": "Niue",
         "dial_code": "+683",
-        "code": "NU"
+        "code": "NU",
+        "phone_format": "X XX XX XX"
     },
     {
         "name": "Norfolk Island",
         "dial_code": "+672",
-        "code": "NF"
+        "code": "NF",
+        "phone_format": "0X XXX XXX"
     },
     {
         "name": "Northern Mariana Islands",
         "dial_code": "+1 670",
-        "code": "MP"
+        "code": "MP",
+        "phone_format": "(670) XXX-XXXX"
     },
     {
         "name": "Norway",
         "dial_code": "+47",
-        "code": "NO"
+        "code": "NO",
+        "phone_format": "4X XX XX XX"
     },
     {
         "name": "Oman",
         "dial_code": "+968",
-        "code": "OM"
+        "code": "OM",
+        "phone_format": "9XX-XXXX"
     },
     {
         "name": "Pakistan",
         "dial_code": "+92",
-        "code": "PK"
+        "code": "PK",
+        "phone_format": "0XX-XXXXXXX"
     },
     {
         "name": "Palau",
         "dial_code": "+680",
-        "code": "PW"
+        "code": "PW",
+        "phone_format": "6XX-XXXX"
     },
     {
         "name": "Palestinian Territory, Occupied",
         "dial_code": "+970",
-        "code": "PS"
+        "code": "PS",
+        "phone_format": "0XX-XXXXXXX"
     },
     {
         "name": "Panama",
         "dial_code": "+507",
-        "code": "PA"
+        "code": "PA",
+        "phone_format": "6XX-XXXX"
     },
     {
         "name": "Papua New Guinea",
         "dial_code": "+675",
-        "code": "PG"
+        "code": "PG",
+        "phone_format": "7XX XXX XXX"
     },
     {
         "name": "Paraguay",
         "dial_code": "+595",
-        "code": "PY"
+        "code": "PY",
+        "phone_format": "(0XX) XXX-XXXX"
     },
     {
         "name": "Peru",
         "dial_code": "+51",
-        "code": "PE"
+        "code": "PE",
+        "phone_format": "(0XX) XXX-XXXX"
     },
     {
         "name": "Philippines",
         "dial_code": "+63",
-        "code": "PH"
+        "code": "PH",
+        "phone_format": "0XX-XXXX-XXXX"
     },
     {
         "name": "Pitcairn",
         "dial_code": "+872",
-        "code": "PN"
+        "code": "PN",
+        "phone_format": "1-3XX-XXXX"
     },
     {
         "name": "Poland",
         "dial_code": "+48",
-        "code": "PL"
+        "code": "PL",
+        "phone_format": "6XX XXX XXX"
     },
     {
         "name": "Portugal",
         "dial_code": "+351",
-        "code": "PT"
+        "code": "PT",
+        "phone_format": "9XX XXX XXX"
     },
     {
         "name": "Puerto Rico",
-        "dial_code": "+1 939",
-        "code": "PR"
+        "dial_code": "+1 787",
+        "code": "PR",
+        "phone_format": "(787) XXX-XXXX"
     },
     {
         "name": "Qatar",
         "dial_code": "+974",
-        "code": "QA"
+        "code": "QA",
+        "phone_format": "3XX-XXXX"
     },
     {
         "name": "Romania",
         "dial_code": "+40",
-        "code": "RO"
+        "code": "RO",
+        "phone_format": "07X XXX XXX"
     },
     {
-        "name": "Russia",
+        "name": "Russian Federation",
         "dial_code": "+7",
-        "code": "RU"
+        "code": "RU",
+        "phone_format": "9XX XXX XXXX"
     },
     {
         "name": "Rwanda",
         "dial_code": "+250",
-        "code": "RW"
+        "code": "RW",
+        "phone_format": "0XX XXX XXX"
     },
     {
-        "name": "Reunion",
-        "dial_code": "+262",
-        "code": "RE"
-    },
-    {
-        "name": "Saint Barthelemy",
+        "name": "Saint Barthélemy",
         "dial_code": "+590",
-        "code": "BL"
+        "code": "BL",
+        "phone_format": "0X XX XX XX"
     },
     {
-        "name": "Saint Helena, Ascension and Tristan Da Cunha",
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
         "dial_code": "+290",
-        "code": "SH"
+        "code": "SH",
+        "phone_format": "0XX XX XX"
     },
     {
         "name": "Saint Kitts and Nevis",
         "dial_code": "+1 869",
-        "code": "KN"
+        "code": "KN",
+        "phone_format": "(869) XXX-XXXX"
     },
     {
         "name": "Saint Lucia",
         "dial_code": "+1 758",
-        "code": "LC"
+        "code": "LC",
+        "phone_format": "(758) XXX-XXXX"
     },
     {
-        "name": "Saint Martin",
+        "name": "Saint Martin (French part)",
         "dial_code": "+590",
-        "code": "MF"
+        "code": "MF",
+        "phone_format": "0X XX XX XX"
     },
     {
         "name": "Saint Pierre and Miquelon",
         "dial_code": "+508",
-        "code": "PM"
+        "code": "PM",
+        "phone_format": "0X XX XX XX"
     },
     {
         "name": "Saint Vincent and the Grenadines",
         "dial_code": "+1 784",
-        "code": "VC"
+        "code": "VC",
+        "phone_format": "(784) XXX-XXXX"
     },
     {
         "name": "Samoa",
         "dial_code": "+685",
-        "code": "WS"
+        "code": "WS",
+        "phone_format": "7XX XXX"
     },
     {
         "name": "San Marino",
         "dial_code": "+378",
-        "code": "SM"
+        "code": "SM",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Sao Tome and Principe",
         "dial_code": "+239",
-        "code": "ST"
+        "code": "ST",
+        "phone_format": "9XX XXX XXX"
     },
     {
         "name": "Saudi Arabia",
         "dial_code": "+966",
-        "code": "SA"
+        "code": "SA",
+        "phone_format": "5XX XXX XXX"
     },
     {
         "name": "Senegal",
         "dial_code": "+221",
-        "code": "SN"
+        "code": "SN",
+        "phone_format": "77X XXX XXX"
     },
     {
         "name": "Serbia",
         "dial_code": "+381",
-        "code": "RS"
+        "code": "RS",
+        "phone_format": "06X XXX XXX"
     },
     {
         "name": "Seychelles",
         "dial_code": "+248",
-        "code": "SC"
+        "code": "SC",
+        "phone_format": "7XX XXX"
     },
     {
         "name": "Sierra Leone",
         "dial_code": "+232",
-        "code": "SL"
+        "code": "SL",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Singapore",
         "dial_code": "+65",
-        "code": "SG"
+        "code": "SG",
+        "phone_format": "8XXXXXXX"
     },
     {
         "name": "Slovakia",
         "dial_code": "+421",
-        "code": "SK"
+        "code": "SK",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Slovenia",
         "dial_code": "+386",
-        "code": "SI"
+        "code": "SI",
+        "phone_format": "0X XXX XXX"
     },
     {
         "name": "Solomon Islands",
         "dial_code": "+677",
-        "code": "SB"
+        "code": "SB",
+        "phone_format": "7XX XXXX"
     },
     {
         "name": "Somalia",
         "dial_code": "+252",
-        "code": "SO"
+        "code": "SO",
+        "phone_format": "0X XXX XXXX"
     },
     {
         "name": "South Africa",
         "dial_code": "+27",
-        "code": "ZA"
+        "code": "ZA",
+        "phone_format": "0X XXX XXXX"
     },
     {
-        "name": "South Georgia and the South Sandwich Islands",
-        "dial_code": "+500",
-        "code": "GS"
+        "name": "South Korea",
+        "dial_code": "+82",
+        "code": "KR",
+        "phone_format": "010-XXXX-XXXX"
+    },
+    {
+        "name": "South Sudan",
+        "dial_code": "+211",
+        "code": "SS",
+        "phone_format": "0X XXX XXXX"
     },
     {
         "name": "Spain",
         "dial_code": "+34",
-        "code": "ES"
+        "code": "ES",
+        "phone_format": "6XX XXX XXX"
     },
     {
         "name": "Sri Lanka",
         "dial_code": "+94",
-        "code": "LK"
+        "code": "LK",
+        "phone_format": "0XX-XXX-XXXX"
     },
     {
         "name": "Sudan",
         "dial_code": "+249",
-        "code": "SD"
+        "code": "SD",
+        "phone_format": "0X XXX XXXX"
     },
     {
         "name": "Suriname",
         "dial_code": "+597",
-        "code": "SR"
+        "code": "SR",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Svalbard and Jan Mayen",
         "dial_code": "+47",
-        "code": "SJ"
-    },
-    {
-        "name": "Swaziland",
-        "dial_code": "+268",
-        "code": "SZ"
+        "code": "SJ",
+        "phone_format": "4X XX XX XX"
     },
     {
         "name": "Sweden",
         "dial_code": "+46",
-        "code": "SE"
+        "code": "SE",
+        "phone_format": "7X XX XX XX"
     },
     {
         "name": "Switzerland",
         "dial_code": "+41",
-        "code": "CH"
+        "code": "CH",
+        "phone_format": "07X XXX XX XX"
     },
     {
         "name": "Syrian Arab Republic",
         "dial_code": "+963",
-        "code": "SY"
+        "code": "SY",
+        "phone_format": "0X XXX XXXX"
     },
     {
         "name": "Taiwan",
         "dial_code": "+886",
-        "code": "TW"
+        "code": "TW",
+        "phone_format": "(0X) XXX-XXXX"
     },
     {
         "name": "Tajikistan",
         "dial_code": "+992",
-        "code": "TJ"
+        "code": "TJ",
+        "phone_format": "9XX XXX XXX"
     },
     {
-        "name": "Tanzania, United Republic of Tanzania",
+        "name": "Tanzania",
         "dial_code": "+255",
-        "code": "TZ"
+        "code": "TZ",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Thailand",
         "dial_code": "+66",
-        "code": "TH"
+        "code": "TH",
+        "phone_format": "0XX-XXXX-XXXX"
     },
     {
         "name": "Timor-Leste",
         "dial_code": "+670",
-        "code": "TL"
+        "code": "TL",
+        "phone_format": "7XX XXXX"
     },
     {
         "name": "Togo",
         "dial_code": "+228",
-        "code": "TG"
+        "code": "TG",
+        "phone_format": "0X XX XX XX XX"
     },
     {
         "name": "Tokelau",
         "dial_code": "+690",
-        "code": "TK"
+        "code": "TK",
+        "phone_format": "3XX XXXX"
     },
     {
         "name": "Tonga",
         "dial_code": "+676",
-        "code": "TO"
+        "code": "TO",
+        "phone_format": "7XX XXX"
     },
     {
         "name": "Trinidad and Tobago",
         "dial_code": "+1 868",
-        "code": "TT"
+        "code": "TT",
+        "phone_format": "(868) XXX-XXXX"
     },
     {
         "name": "Tunisia",
         "dial_code": "+216",
-        "code": "TN"
+        "code": "TN",
+        "phone_format": "2XX XXX XXX"
     },
     {
         "name": "Turkey",
         "dial_code": "+90",
-        "code": "TR"
+        "code": "TR",
+        "phone_format": "05X XXX XX XX"
     },
     {
         "name": "Turkmenistan",
         "dial_code": "+993",
-        "code": "TM"
+        "code": "TM",
+        "phone_format": "6X XXX XXXX"
     },
     {
         "name": "Turks and Caicos Islands",
         "dial_code": "+1 649",
-        "code": "TC"
+        "code": "TC",
+        "phone_format": "(649) XXX-XXXX"
     },
     {
         "name": "Tuvalu",
         "dial_code": "+688",
-        "code": "TV"
+        "code": "TV",
+        "phone_format": "7XX XXXX"
     },
     {
         "name": "Uganda",
         "dial_code": "+256",
-        "code": "UG"
+        "code": "UG",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Ukraine",
         "dial_code": "+380",
-        "code": "UA"
+        "code": "UA",
+        "phone_format": "0XX XXX XXXX"
     },
     {
         "name": "United Arab Emirates",
         "dial_code": "+971",
-        "code": "AE"
+        "code": "AE",
+        "phone_format": "5XX XXX XXX"
     },
     {
         "name": "United Kingdom",
         "dial_code": "+44",
-        "code": "GB"
+        "code": "GB",
+        "phone_format": "7XXX XXXXXX"
     },
     {
         "name": "United States",
         "dial_code": "+1",
-        "code": "US"
+        "code": "US",
+        "phone_format": "(XXX) XXX-XXXX"
     },
     {
         "name": "Uruguay",
         "dial_code": "+598",
-        "code": "UY"
+        "code": "UY",
+        "phone_format": "0X XXX XXXX"
     },
     {
         "name": "Uzbekistan",
         "dial_code": "+998",
-        "code": "UZ"
+        "code": "UZ",
+        "phone_format": "9XX XXX XXXX"
     },
     {
         "name": "Vanuatu",
         "dial_code": "+678",
-        "code": "VU"
+        "code": "VU",
+        "phone_format": "5XX XXXX"
     },
     {
-        "name": "Venezuela, Bolivarian Republic of Venezuela",
+        "name": "Venezuela",
         "dial_code": "+58",
-        "code": "VE"
+        "code": "VE",
+        "phone_format": "0XX-XXXX-XXXX"
     },
     {
-        "name": "Vietnam",
+        "name": "Viet Nam",
         "dial_code": "+84",
-        "code": "VN"
-    },
-    {
-        "name": "Virgin Islands, British",
-        "dial_code": "+1 284",
-        "code": "VG"
-    },
-    {
-        "name": "Virgin Islands, U.S.",
-        "dial_code": "+1 340",
-        "code": "VI"
+        "code": "VN",
+        "phone_format": "0X XXX XXXX"
     },
     {
         "name": "Wallis and Futuna",
         "dial_code": "+681",
-        "code": "WF"
+        "code": "WF",
+        "phone_format": "7XX XX XX"
+    },
+    {
+        "name": "Western Sahara",
+        "dial_code": "+212",
+        "code": "EH",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Yemen",
         "dial_code": "+967",
-        "code": "YE"
+        "code": "YE",
+        "phone_format": "0X XXX XXXX"
     },
     {
         "name": "Zambia",
         "dial_code": "+260",
-        "code": "ZM"
+        "code": "ZM",
+        "phone_format": "0XX XXX XXX"
     },
     {
         "name": "Zimbabwe",
         "dial_code": "+263",
-        "code": "ZW"
+        "code": "ZW",
+        "phone_format": "0XX XXX XXX"
     }
 ]
